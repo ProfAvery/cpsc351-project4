@@ -1,0 +1,13 @@
+*.o
+t0
+t1
+thread_create
+thread_create_simple_args
+thread_create_with_return_args
+join_spin
+join_no_lock
+join_no_state_var
+join
+join_modular
+pc
+pc_single_cv
